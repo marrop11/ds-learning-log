@@ -30,7 +30,8 @@
 
 # 
 
-# \- \*\*Day 1:\*\* Updated CV and LinkedIn profile
+ \- \*\*Day 1:\*\* Updated CV and LinkedIn profile
 
-# \- \*\*Day 2:\*\* Set up Git and GitHub, created this repo
+\- \*\*Day 2:\*\* Set up Git and GitHub, created this repo
 
+   - **Day 3:** VS Code, venv, pandas (filter, groupby, merge)
