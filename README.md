@@ -21,4 +21,4 @@ I'm a final-year MSc student in Probability and Mathematical Statistics at Comen
 
 ## Week 1 review
 
-<!-- 2–3 vety vlastnými slovami: čo sa podarilo, čo išlo ťažko, čo nabudúce inak -->
+This week I updated my CV and LinkedIn, set up Git and GitHub and built a working Python environment with VS Code, Jupyter and a virtual environment. The hardest part wasn't the data science but the tooling: terminals, paths and pushing to GitHub took longer than expected. Thanks to my SQL background, pandas was quick to pick up, and scikit-learn pipelines with cross-validation already felt natural from a statistical point of view. Next week I want to start the A/B testing project and spend less time on setup and more on actual analysis.
